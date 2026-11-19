@@ -6,17 +6,11 @@
     xmlns:local="clr-namespace:Journal_Application"
     Title="Journal_Application">
 
-    
-        
+
+
     <ShellContent
         Title="Journal entries"
         ContentTemplate="{DataTemplate local:JournalEntryPage}"
         Route="JournalEntryPage" />
-
-    <ShellContent
-        Title="To-do list"
-        ContentTemplate="{DataTemplate local:ToDoListPage}"
-        Route="ToDoListPage" />
-
 
 </Shell>
