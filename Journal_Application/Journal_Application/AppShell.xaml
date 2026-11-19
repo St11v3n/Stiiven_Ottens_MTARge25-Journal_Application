@@ -7,8 +7,8 @@
     Title="Journal_Application">
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Title="Journal entries"
+        ContentTemplate="{DataTemplate local:JournalEntryPage}"
+        Route="JournalEntryPage" />
 
 </Shell>
