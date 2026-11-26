@@ -5,7 +5,28 @@
 
     <ScrollView>
         <VerticalStackLayout>
-            
+            <HorizontalStackLayout HorizontalOptions="Center"
+                                   Margin="0, 20"
+                                   >
+
+
+                <Label Text ="Journal entries"
+                       Margin="20,0"
+                       FontSize="30"
+                       TextColor="Black">
+
+                </Label>
+
+
+                <Label Text="To-do list"
+                       FontSize="30"
+                       TextColor="Black">
+
+                </Label>
+
+
+
+            </HorizontalStackLayout>
         </VerticalStackLayout>
     </ScrollView>    
 
