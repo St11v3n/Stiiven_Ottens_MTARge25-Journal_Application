@@ -28,7 +28,14 @@
 
             </HorizontalStackLayout>
             <VerticalStackLayout>
-                
+
+                <Entry Placeholder="Write the title of the entry here...."
+                       WidthRequest="650"
+                       HorizontalTextAlignment="Center"
+                       FontSize="18">
+
+                </Entry>
+
             </VerticalStackLayout>
         </VerticalStackLayout>
     </ScrollView>    
