@@ -3,6 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Journal_Application.JournalEntryPage">
 
-    
+    <ScrollView>
+        <VerticalStackLayout>
+            
+        </VerticalStackLayout>
+    </ScrollView>    
 
 </ContentPage>
