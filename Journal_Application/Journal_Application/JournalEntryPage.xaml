@@ -27,7 +27,7 @@
 
 
             </HorizontalStackLayout>
-            <VerticalStackLayout>
+            <VerticalStackLayout Spacing="25">
 
                 <Entry Placeholder="Write the title of the entry here...."
                        WidthRequest="650"
