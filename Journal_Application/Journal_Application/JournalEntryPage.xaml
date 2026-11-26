@@ -44,6 +44,20 @@
 
                 </Button>
 
+                <Border     WidthRequest="650"
+                            MinimumHeightRequest="750"
+                            Padding="40" >
+
+                    <Editor AutoSize="TextChanges"
+                            Placeholder="Write your main text here..."
+                            BackgroundColor="Transparent"
+                            FontSize="18">
+
+                    </Editor>
+
+                </Border>
+
+
             </VerticalStackLayout>
         </VerticalStackLayout>
     </ScrollView>    
