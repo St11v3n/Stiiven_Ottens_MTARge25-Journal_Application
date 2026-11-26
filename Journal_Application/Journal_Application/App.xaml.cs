@@ -11,7 +11,7 @@ namespace Journal_Application
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
-            return new Window(new JournalEntryPage());
+            return new Window(new ToDoListPage());
         }
     }
 }
