@@ -36,6 +36,14 @@
 
                 </Entry>
 
+                <Button Text="Submit"
+                        HorizontalOptions="Center"
+                        WidthRequest="100"
+                        BackgroundColor="gray"
+                        TextColor="black">
+
+                </Button>
+
             </VerticalStackLayout>
         </VerticalStackLayout>
     </ScrollView>    
